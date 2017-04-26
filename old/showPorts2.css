@@ -1,0 +1,11 @@
+<style type="text/css">
+body { background:white; color:black }
+TD.highlight { background-color:#dddd00}
+TR.highlight { background:#dddd00;background-color:#00dddd; color:#ffffff}
+.tableStyle { background:#dddddd;background-color:#dddddd; color:#ffffff}
+.tableStyle2 { background:#bbbbbb;background-color:#bbbbbb; color:#000000; font-size:11pt}
+TD {background-color:white; font-family: Arial, Helvetica, non-serif; font-size: 8pt; color: black}
+TH {background-color:white; font-family: Arial, Helvetica, non-serif; font-size: 9pt; color: black}
+INPUT {font-family: Arial, Helvetica, non-serif; font-size: 9pt; color: black}
+SELECT {font-family: Arial, Helvetica, non-serif; font-size: 9pt; color: black}
+</style>

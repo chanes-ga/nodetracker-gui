@@ -1,0 +1,10 @@
+<style type="text/css">
+body { background:white; color:black }
+#porttable { position:absolute; left:280;top:315;background:white; color:black }
+#iptable { background:#dddddd;background-color:#dddddd;position:absolute; left:5;top:285; width:200; color:black }
+.tableStyle { background:#dddddd;background-color:#dddddd; color:#ffffff}
+TD {background-color:white; font-family: Arial, Helvetica, non-serif; font-size: 8pt; color: black}
+TH {background-color:white; font-family: Arial, Helvetica, non-serif; font-size: 9pt; color: black}
+INPUT {font-family: Arial, Helvetica, non-serif; font-size: 9pt; color: black}
+SELECT {font-family: Arial, Helvetica, non-serif; font-size: 9pt; color: black}
+</style>
